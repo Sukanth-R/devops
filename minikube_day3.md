@@ -1,4 +1,4 @@
-Installing and Setting Up Kubernetes Minikube
+# Installing and Setting Up Kubernetes Minikube
 
 
 ```bash
@@ -35,7 +35,7 @@ minikube start
 sudo nano nginx-deploymenr.yaml
 ```
 
-nginx-deploymenr.yaml
+## nginx-deploymenr.yaml
 
 ```bash
 apiVersion: apps/v1
@@ -64,7 +64,7 @@ spec:
 sudo nano service.yaml
 ```
 
-service.yaml
+## service.yaml
 
 ```bash
 apiVersion: v1
