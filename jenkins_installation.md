@@ -92,3 +92,13 @@ systemctl status nginx
 
  - Your first Nginx project using Jenkins is successfully deployed!
  - Click on the Build in `Builds` and click on the `Console Output` to view the logs
+
+
+
+![1](https://github.com/user-attachments/assets/f14dc353-45a8-4e83-b3cb-0969b9dfad06)
+![2](https://github.com/user-attachments/assets/a3a9afb7-5394-45ce-866b-bc131e2d6d9e)
+![3](https://github.com/user-attachments/assets/a4ccc254-2ecb-4e9a-b068-87cfd8d9e02c)
+![4](https://github.com/user-attachments/assets/c16251ec-6086-4877-a446-ddda1642f8f7)
+![5](https://github.com/user-attachments/assets/1b66fbf9-aaf7-491c-9ed9-5d77f09803fb)
+![6](https://github.com/user-attachments/assets/bd6340ce-9eb1-4ae8-bca7-f9ca726c5d95)
+
