@@ -1,3 +1,6 @@
+Installing and Setting Up Kubernetes Minikube
+
+
 ```bash
 mkdir my-docker-app
 ```
@@ -16,7 +19,9 @@ npm init -y
 ```bash
 docker pull sukanth0021/pro:latest
 ```
+```bash
 docker build -t sukanth0021/pro:latest
+```
 ```bash
 docker ps
 ```
