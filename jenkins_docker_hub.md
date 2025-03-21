@@ -119,5 +119,10 @@ pipeline {
  - Go to Docker Hub to see your image pushed there
 
 
+![1](https://github.com/user-attachments/assets/5abaed3f-289e-4003-8f2f-325831a87154)
+![2](https://github.com/user-attachments/assets/80fd0dd5-3bdb-4cc3-9e3f-177b3abd43d2)
+![3](https://github.com/user-attachments/assets/565a8bc1-25ab-4a89-9d18-2ea9a3785a8c)
 ![VirtualBox_sukanth_19_03_2025_21_46_34](https://github.com/user-attachments/assets/b0968802-c4e2-4298-b64f-57dba9c34cf4)
+![5](https://github.com/user-attachments/assets/54e18eee-26bb-4ac4-9312-0e0953489368)
 ![6](https://github.com/user-attachments/assets/9572a11a-1ba2-4558-9933-1cc4ad97f1a9)
+![7](https://github.com/user-attachments/assets/5e6c2fb2-8b95-4083-bae3-7521514f6a1c)
