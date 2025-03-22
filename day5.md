@@ -5,7 +5,7 @@
 sudo apt install maven
 ```
 
-
+![1](https://github.com/user-attachments/assets/dbe3e036-7913-4dd4-9baa-572fa7c25d5a)
 
 ## Fork the repo on github
 
